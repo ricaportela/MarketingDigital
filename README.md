@@ -15,14 +15,13 @@
 
 ## Estatisticas de sites
    https://www.semrush.com/br/info/pycursos.com
-- ver os dados do site, backlinks
+- ver estatisticas do site, backlinks
 
 
-
-# SeoMoz
 
 ## Instalar Extensões no Chrome
-- Mozbar
+- Mozbar 
+- SeoMoz
 
 
 # Cpanel
