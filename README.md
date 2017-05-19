@@ -15,7 +15,7 @@
 
 ## Estatisticas de sites
    https://www.semrush.com/br/info/pycursos.com
-- ver estatisticas do site, backlinks
+   - ver estatisticas do site, backlinks, PA e DA (Page e domain authority)
 
 
 
@@ -30,3 +30,4 @@
 - Pagina de Contato - plugin wordpress
 
 # Hotmart - Afiliação
+
