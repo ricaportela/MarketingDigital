@@ -1,4 +1,5 @@
 # Marketing Digital
+# 
 
 ## Planejador de Palavras Chaves
 - https://adwords.google.com/ko/KeywordPlanner/Home?__u=6273825542&__c=8605965542&authuser=0#start
